@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewFlash</string>
+    <string name="action_settings">Notificaciones</string>
+
+    <string name="titulo_actividad_detalle">Categoria</string>
+
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+</resources>
